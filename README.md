@@ -1,0 +1,4 @@
+QRcode-lua-ffi
+==============
+
+qrcode
